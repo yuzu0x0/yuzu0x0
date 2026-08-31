@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Hihi, 
+title: 小林的記事
 ---
 
 Hihi, this is my journal.
