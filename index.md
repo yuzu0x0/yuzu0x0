@@ -1,6 +1,8 @@
 ---
 layout: home
-title: 我的週記
+title: Hihi, 
 ---
 
-歡迎來到我的週記。每一篇文章都記錄一週的學習與生活。
+Hihi, this is my journal.
+
+這裏存放小林的雜記。
