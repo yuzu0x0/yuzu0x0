@@ -4,6 +4,7 @@ lang: zh-TW
 url: "https://yuzu0x0.github.io"
 baseurl: "/yuzu0x0"
 theme: minima
+header_pages: []
 
 # 不顯示日期在未來的文章；通常不需要修改這一行。
 future: false
