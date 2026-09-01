@@ -16,7 +16,6 @@ body {
   border-top: 5px solid #6b8847;
   border-bottom: 1px solid #c6d09f;
 }
-
 .site-title,
 .site-title:visited {
   color: #214d1c;
@@ -69,72 +68,6 @@ code {
   background: #fffef8;
   border-top: 1px solid #c6d09f;
   color: #68705e;
-}
-
-/* 首頁：此區塊可搭配 index.md 的文字自行調整 */
-.home-intro {
-  padding: 3rem 0 2.5rem;
-  text-align: center;
-}
-
-.home-intro h1 {
-  color: #214d1c;
-  font-size: 2.25rem;
-  margin-bottom: .75rem;
-}
-
-.home-intro p:last-child {
-  color: #66705a;
-  margin-bottom: 0;
-}
-
-.home-kicker {
-  color: #6b8847;
-  font-size: .75rem;
-  font-weight: 700;
-  letter-spacing: .15em;
-}
-
-.home-posts {
-  border-top: 1px solid #c6d09f;
-  padding: 2rem 0 3rem;
-}
-
-.home-posts h2 {
-  color: #214d1c;
-  font-size: 1.3rem;
-}
-
-.home-post-list {
-  list-style: none;
-  margin-left: 0;
-}
-
-.home-post-list li {
-  align-items: baseline;
-  border-bottom: 1px solid #e1e7ca;
-  display: flex;
-  gap: 1rem;
-  padding: .9rem 0;
-}
-
-.home-post-list time {
-  color: #78816d;
-  flex: 0 0 6.5rem;
-  font-size: .85rem;
-}
-
-.home-post-list a {
-  font-size: 1.1rem;
-  font-weight: 700;
-}
-
-@media screen and (max-width: 600px) {
-  .home-post-list li {
-    align-items: flex-start;
-    flex-direction: column;
-    gap: .2rem;
-  }
 }
 
 /* 寬螢幕時保留兩側的綠色留白 */
