@@ -7,8 +7,11 @@
 body {
   background: #e7ecd1;
   color: #4c4c4c;
-  font-family: "Trebuchet MS", "Noto Sans TC", sans-serif;
+  font-family: "Quicksand", "Zen Maru Gothic TC", sans-serif;
+  font-size: 16px; /* 這裡可以調整成你想要的基準大小，預設通常約為 16px */
 }
+
+
 
 /* 頂端導覽列 */
 .site-header {
@@ -35,10 +38,15 @@ a:hover {
 
 /* 文章標題 */
 .post-title,
-.post-content h1,
+.post-content h1 {
+  font-size: 2rem; /* 調整大標題大小 */
+}
 .post-content h2,
 .post-content h3 {
   color: #214d1c;
+}
+.post-content {
+  font-size: 1.05rem; /* 稍微放大內文，數值可依需求調整 */
 }
 
 /* 主要內容像置於淡色紙張上 */
